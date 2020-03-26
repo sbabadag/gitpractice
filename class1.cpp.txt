@@ -1,2 +1,2 @@
-class1
+class1-a
 change 1 ----
